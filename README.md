@@ -33,6 +33,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Gummalla&layout=compact&theme=tokyonight)
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nithin-Gummalla&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nithin-Gummalla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Nithin-Gummalla&color=blue)
