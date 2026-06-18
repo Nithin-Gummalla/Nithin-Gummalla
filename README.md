@@ -6,11 +6,11 @@
 - 💡 Interested in Backend Development
 - 🚀 Working toward becoming a Software Engineer
 
-## 🛠️ Skills
-- Java
-- Spring Boot
-- Git & GitHub
-- MySQL
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,vscode,idea" />
+</p>
 
 ## 🎯 Goals
 - Solve 500+ DSA problems
