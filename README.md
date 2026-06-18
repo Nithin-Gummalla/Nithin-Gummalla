@@ -31,8 +31,8 @@
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Gummalla&layout=compact&theme=tokyonight)
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nithin-Gummalla&theme=tokyonight)
+[![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Gummalla&theme=tokyo-night)](https://github.com/Nithin-Gummalla)
 
 ![](https://komarev.com/ghpvc/?username=Nithin-Gummalla&color=blue)
