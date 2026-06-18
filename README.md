@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nithin Gummalla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Learning+Java+%26+Spring+Boot;DSA+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Learning+Java+and+Spring+Boot;DSA+Enthusiast;Future+Software+Engineer" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nithin-Gummalla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE Student
 - 🌱 Currently learning Java, Spring Boot, and DSA
@@ -21,8 +23,7 @@
 - Build real-world Java projects
 - Become job-ready
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nithin-gummalla-2b0462339/)
+
   
 ## 📊 GitHub Stats
 
@@ -34,5 +35,7 @@
 ## 📈 Contribution Graph
 
 [![Nithin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithin-Gummalla&theme=tokyo-night)](https://github.com/Nithin-Gummalla)
+## 📫 Connect with Me
 
-![](https://komarev.com/ghpvc/?username=Nithin-Gummalla&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-gummalla-2b0462339/)
+ 
