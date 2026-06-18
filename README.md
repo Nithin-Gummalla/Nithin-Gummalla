@@ -19,3 +19,16 @@
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/nithin-gummalla-2b0462339/
+- 
+## 📊 GitHub Stats
+
+![Nithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithin-Gummalla&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithin-Gummalla&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nithin-Gummalla&theme=tokyonight)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=Nithin-Gummalla&color=blue)
